@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MEng in Biomedical Engineering, Imperial College London, 2017-2021
+* Ph.D in Systems and Synthetic Biology, Cambridge University, 2021-2025
 
 Work experience
 ======
